@@ -1,0 +1,28 @@
+*{
+	font-family: "arial";
+	margin: 0px auto;
+	font-size: 14px;
+}
+#logindiv, #registrationdiv{
+	border: 1px solid black;
+	width: 400px;
+	padding: 10px;
+}
+#emailfield{
+	margin-left: 40px;
+}
+#registrationdiv{
+	margin-top: 10px;
+}
+#fname, #lname{
+	margin-left: 52px; 
+}
+#regemail{
+	margin-left: 26px;
+}
+#regpw{
+	margin-left: 60px;
+}
+ #confirmfield{
+ 	margin-left: 0px;
+ }
